@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Certain queres, not vnfitting to be read, and taken into serious consideration by all His Majesties subjects in these disloyall times. Whereunto is added XXXI. suppositions concerning the proceedings of this present Parliament. Very fitting to be taken into the like consideration. Read and judge.</title>
+         </titleStmt>
+         <extent>Approx. 20KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78496</idno><idno type="EEBO-CITATION">99872723</idno>
+  <idno type="VID">125169</idno>
+  <idno type="EEBO-PROQUEST">2248515544</idno>
+  
+            <idno type="STC">Wing C1740</idno>
+            <idno type="STC">Thomason E67_23</idno>
+            <idno type="STC">ESTC R4796</idno>
+            <idno type="PROQUEST">99872723</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99872723e"/>
+            <note>(EEBO-TCP ; phase 2, no. A78496)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 125169)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 12:E67[23])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Certain queres, not vnfitting to be read, and taken into serious consideration by all His Majesties subjects in these disloyall times. Whereunto is added XXXI. suppositions concerning the proceedings of this present Parliament. Very fitting to be taken into the like consideration. Read and judge.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Leonard Lichfield, Printer to the Vniversitie,</publisher>
+                  <pubPlace>Oxford [i.e. London] :</pubPlace>
+                  <date>MDCXLIII. [1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The imprint is false. "A counterfeit London print, but a useful compendium of facts and arguments on the Royalist side."--Madan.</note>
+                  <note>Annotation on Thomason copy: "Sept: 19".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Sources --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:125169:1"/>
+            <p>Certain Queres, NOT VNFITTING <hi>TO</hi> Be Read, and taken into serious <hi>CONSIDERATION</hi> By all His MAJESTIES Subjects in these <hi>Disloyall Times.</hi>
+            </p>
+            <p>Whereunto is added XXXI. SVPPOSITIONS <hi>Concerning</hi> The Proceedings of this present <hi>Parliament.</hi>
+            </p>
+            <p>Very Fitting to betaken into the like consideration.</p>
+            <p>
+               <hi>Read and judge.</hi>
+            </p>
+            <p>OXFORD, Printed by LEONARD LICHFIELD, Printer to the Vniversitie. MDCXLIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:125169:2"/>
+            <head>
+               <hi>Nine Queries,</hi> Fit to be taken into serious Consideration <hi>In these Disloyall</hi> TIMES.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>1 JOHN. 4.1.</hi>
+                  </bibl>
+                  <p>Beleeve not every spirit, but trye the spirits, whether they are of GOD.</p>
+               </q>
+            </epigraph>
+            <p>Quae. 1. <hi>
+                  <seg rend="decorInit">W</seg>Hether that be the spirit of God or no? Which</hi> First, Seeketh by unworthy and sinister wayes to accomplish their owne desires; As 1. By bringing in the <hi>Scots.</hi> 2. By robbing the King<g ref="char:EOLhyphen"/>dom for their pay. 3. By releeving the di<g ref="char:EOLhyphen"/>stresses of <hi>Ireland.</hi>
+            </p>
+            <p>Quere 2. <hi>Whether that be the Spirit of God or no?</hi> Which by bitter Scandalls, and lying Reports, seek to abate the Loyalty of the people from their Soveraigne, as by accusing His Ma<g ref="char:EOLhyphen"/>jestie, First to have a hand in the Rebellion of <hi>Ireland,</hi> and to favour their Proceedings: 2. To seek the destruction of the Parliament, and to bring up an Armie against them. 3 With an intention, First, To bring in Pope<g ref="char:EOLhyphen"/>ry, Secondly, To bring in a forraign Armie. Thirdly, To rule in an Arbi<g ref="char:EOLhyphen"/>trary way.</p>
+            <p>Quae. 3. <hi>Whether that be the spirit of God, &amp;c.</hi> That seek to uphold their Designes by lies, as appears, 1. By Pamphlets. 2. By Votes. 3. By Let<g ref="char:EOLhyphen"/>ters. 4. By Speeches.</p>
+            <p>Quae. 4. <hi>Whether that be the spirit, &amp;c.</hi> Which expresseth an invete<g ref="char:EOLhyphen"/>rate Rancour and Malice to the grave and reverend <hi>Clergie</hi> of our King<g ref="char:EOLhyphen"/>dome, 1. By Countenancing, and delighting in all Accusations against them, how unjust and scandalous soever. 2. By uhholding all those who <hi>Exdiametro,</hi> are opposite to them and enemies to the established govern<g ref="char:EOLhyphen"/>ment of the Church. 3. Not punnishing the Riotous assaults made upon the persons of the <hi>Bish ps</hi> 4. Accusing after a malicious, but ridiculous way, the BB of High Treason, and committing them to the <hi>Tower.</hi> 5. By putting them from their Votes in the House, which hath been one main Cause of all the miseries and distra<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tions of the state, and certainly had been prevented by them, if they had had <hi>Voices.</hi>
+            </p>
+            <pb n="3" facs="tcp:125169:2"/>
+            <p>Quae. 5. <hi>Whether that be the spirit of God, or no?</hi> Which upon false Surmises and Suggestions, Vote things to be Law contrary to the Funda<g ref="char:EOLhyphen"/>mentall Laws, As 1. That the KING is bound by Oath to settle the <hi>Mi<g ref="char:EOLhyphen"/>litia,</hi> as they would have it. 2. That the KING hath no Right in His Ca<g ref="char:EOLhyphen"/>stles, Forts, &amp;c. but only in Trust, which is forfeitable. 3. That they may by the Fundamentall Lawes, dispose of this trust, which implies a Forfei<g ref="char:EOLhyphen"/>ture in the King. 4. That all Governments by Corporations by the Kings Grants are void. 5. That the Houses may make new Laws and Ordinances without the KINGS Consent. 6. That the KING cannot execute the Commission of <hi>Array,</hi> without the Houses consent.</p>
+            <p>Quae. 6. <hi>Whether that be the spirit, &amp;c.</hi> Which maintaineth Sedition. 1. By Sermons which incite the people against their Soveraigne, and the Church. 2. By Appellations of Uncharitablenesse, first Malignant, second<g ref="char:EOLhyphen"/>ly, Ill-affected, third, Popishly-minded. Whereby the Nobilitie, Gentrie, Clergie, and other Religious men are abused. 3. Libells and Pamphlets against Soveraignty. 4. Speeches, which tend to the great derrogation of His Majestie.</p>
+            <p>Quae. 7. <hi>Whether that be the spirit, &amp;c.</hi> Which dispenceth with the Oaths, 1. Of Allegiance. 2. Of Supremacie. 3. Of Offices. 4. Of Pro<g ref="char:EOLhyphen"/>testations. 5. Of dueties of Loyaltie: and punisheth those that make con<g ref="char:EOLhyphen"/>science of them.</p>
+            <p>Quae. 8. <hi>Whether that be the spirit, &amp;c.</hi> Which maintaineth desperate and Treasonable designes, 1. In <hi>Hotham.</hi> 2. <hi>Warwick,</hi> 3. <hi>Essex, &amp;c.</hi> by 1. Killing the KINGS Subjects. 2. Drowning the Country. 3. Taking Armes against the KING. 4. Surprising the Kings Provision. 5. Taking Passengers their prisoners. 6. Opening the KINGS and QUEENS Let<g ref="char:EOLhyphen"/>ters.</p>
+            <p>Quae. 9. <hi>Whether that be the sppirit, &amp;c.</hi> Which against common mon sense, Pretend, 1. His Maiesties safety, and yet declare all that offer Loyaltie to their PRINCE, to be His enemies! 2. His Honour, and yet seek to make him Infamous to all Ages and Nations: 3. His Wealth, and yet take away His Childrens bread! 4. The safety of the Common-Weale, and yet embrue it in a desperate and Civill Warre. 5. The Liber<g ref="char:EOLhyphen"/>tie of the Subject, and yet, first Imprison them for discharging their Con<g ref="char:EOLhyphen"/>science; secondly, Deny them the libertie of Petitioning; thirdly, Scorne and vilifie the Gentrie. 6. The Priviledge of Parliament, and yet, first, Root out all them that use liberty of speech against their Votes: seconply Take away <hi>Bishops</hi> and Temporall Lords: thirdly, Scandalize all the No<g ref="char:EOLhyphen"/>bilitie which adhere to the KING.</p>
+         </div>
+         <div type="text">
+            <pb n="4" facs="tcp:125169:3"/>
+            <head>
+               <hi>Thirty one</hi> Suppositions, Fit to be taken into serious Consideration in these Disloyall Times.</head>
+            <p n="1">
+               <hi>Supp.</hi> 1. <seg rend="decorInit">T</seg>Hat they who take notice that the King is in the Ar<g ref="char:EOLhyphen"/>mie, and summon Him to fight, and yet declare, they fight to save His Person, doe not declare Truly, but a true Lye.</p>
+            <p n="2">
+               <hi>Supp.</hi> 2. That they who acknowledge, it was no breach of Priviledge of Parliament in Queen <hi>Elizabeth,</hi> to send for Mr. <hi>Wentworth</hi> from the House, and then to send M. <hi>Wentworth</hi> to the <hi>Tower,</hi> and yet protest it to be a breach of Priviledge of Parliament in King CHARLES, to send, or come for the Five <hi>Members,</hi> to have them tryed according to Law, doe not protest Materially, but a materiall lye.</p>
+            <p n="3">
+               <hi>Supp.</hi> 3. That if the Intention of <hi>Rob.</hi> late Earle of <hi>Essex,</hi> in raising for<g ref="char:EOLhyphen"/>ces to remove Evill Counsellors from Queen <hi>Elizabeth,</hi> was by the Law construed to be high Treason; then the Actuall raising of Forces, and the Executing of those <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orces by <hi>Rob.</hi> now Earle of <hi>Essex,</hi> to remove evill Counsellers from King CHARLES, must by the same Law, be a constru<g ref="char:EOLhyphen"/>ed High Treason, and they that speak otherwise, speak not so much For<g ref="char:EOLhyphen"/>mally, as a Formall lye.</p>
+            <p n="4">
+               <hi>Supp.</hi> 4. That they who say it is no Tumult for multitudes to Petition for atchieving their just desires in <hi>Ianuary.</hi> 1641. though they come with swords and staves, and yet doe say it is a Tumult for a few selected Mem<g ref="char:EOLhyphen"/>bers to preferre a Petition for the atchieving of their just desires in <hi>Ianuary</hi> 1642. though they come without swords and staves, doe not say Con<g ref="char:EOLhyphen"/>stantly, but a constant lye.</p>
+            <p n="5">
+               <hi>Supp.</hi> 5. They who pretend the chief Aime and End of all their Con<g ref="char:EOLhyphen"/>sultations is the Glory of GOD, and the maintenance of His true Religi<g ref="char:EOLhyphen"/>on, and yet send Armed men to plunder GODS House, wherein He is chiefly glorified, and to Imprison Orthodox Religious Ministers, by whō His true Religion is chiefly maintained; It may be they doe not intend so much Gloriously, as a Glorious lye.</p>
+            <p n="6">
+               <hi>Supp.</hi> 6. They who tell us, their next aime and end is to Preserve the Lawes of the Kingdome, and the KINGS just Prerogative, the True Priviledges of Parliament, and the Subjects right Libertie; and yet de<g ref="char:EOLhyphen"/>stroy the ancient Laws of the Kingdom, and divest the KING of His known Prerogatives, and make a way to take away the undoubted Privi<g ref="char:EOLhyphen"/>viledges
+<pb n="5" facs="tcp:125169:3"/> of the Parliament, and rob the Subjects of their unquestioned Li<g ref="char:EOLhyphen"/>berties; It may be supposed, they doe advisedly tell us an advised lye.</p>
+            <p n="7">
+               <hi>Supp.</hi> 7. They who confesse the Ecclesiasts to be Canonicall, which forbids us <hi>to harbour an evill thought of Governours,</hi> and yet doe themselves, and encourage others to speak evill of Governours; It may be supposed they confesse not so much Canonically, or Ecclesiastically, as a Canonicall lye, as an Ecclesiasticall lye.</p>
+            <p n="8">
+               <hi>Supp.</hi> 8. They who make Lawes not to be broke by any, no not by a Prerogative Power, untill they be repealed, and yet doe break them themselves by a Legislative power, before they be repealed; It may be supposed they speak Legislatively a Legislative lye.</p>
+            <p n="9">
+               <hi>Supp.</hi> 9. They who speak of Fears and Jealousies from abroad, and be<g ref="char:EOLhyphen"/>yond Sea, by Letters and the like, and yet themselves frame those Fears and Jealousies by forged Letters at home; It may be supposed they speak not indeed Fearfully, but a fearfull lye.</p>
+            <p n="10">
+               <hi>Supp.</hi> 10. They who say they desire nothing but only a pure Reforma<g ref="char:EOLhyphen"/>tion of the Church present, according to the Purity of the Church Prima<g ref="char:EOLhyphen"/>tive, and yet goe against all the Institutions of the Primative Church, by crying down Common Prayers, Episcopacie and the like; It may be sup<g ref="char:EOLhyphen"/>posed, they speak not Purely Primitively, but a Primative pure lye.</p>
+            <p n="11">
+               <hi>Supp.</hi> 11. They who confesse a <hi>Meum &amp; Tuum,</hi> or propriety of goods in the Subject, which cannot be taken away by the King, though to prevent an Imminent and publike danger, but by course of law, and yet a<g ref="char:EOLhyphen"/>gain, they may be taken away by the consultation and advice of a Close Committee, or Five Members, upon a publick pretended danger, by force and violence; It may be supposed they confesse Publikely, a publike lye.</p>
+            <p n="12">
+               <hi>Supp.</hi> 12. They that above board, offer to adventure all means, liber<g ref="char:EOLhyphen"/>ty, life and all, for the Kingdoms safety, and yet under-board convey away all they have into remote parts, when they have made the Kingdom fit for ruine and Destruction; It may be supposed they speak fasly, a safe lye.</p>
+            <p n="13">
+               <hi>Supp</hi> 13. They that to compose a Civill Warre, tender such Proposi<g ref="char:EOLhyphen"/>tions to the Injured Party, which he cannot with honour and a good con<g ref="char:EOLhyphen"/>science yeeld unto, thereby to cast the <hi>Odium</hi> from themselves upon o<g ref="char:EOLhyphen"/>thers; It may be supposed they tender politickly, a politick lye.</p>
+            <p n="14">
+               <hi>Sup.</hi> 14. They that give their Generall Instructions patent, when the Armies are joyned, not to shoot at that Regiment, where the King is in chief, thereby to preserve the King; and yet give Instructions latent, chief<g ref="char:EOLhyphen"/>ly to rout that Regiment, thereby to destroy the King; It may be suppo<g ref="char:EOLhyphen"/>sed they instruct Trayterously a Trayterous lye.</p>
+            <p n="15">
+               <hi>Sup.</hi> 15. They who protest, next to Gods glory, they seek nothing more then to make the King a Glorious and rich King, feared abroad, and ho<g ref="char:EOLhyphen"/>noured at home, and yet by aspertions, and casting dirt in his face, by cal<g ref="char:EOLhyphen"/>lumnies
+<pb n="6" facs="tcp:125169:4"/> and scandalls, make him infamous abroad, and slighted at home; It may be supposed they protest Infamously, an infamous lye.</p>
+            <p n="16">
+               <hi>Sup.</hi> 16. They who take the Oath of Allegiance, as all English men doe either actually or virtually, and thereby acknowledge the King to be su<g ref="char:EOLhyphen"/>pream in all Causes, Ecclesiasticall and Civill, and sware to maintain him, and defend him against all men, and to obey him in all his lawfull com<g ref="char:EOLhyphen"/>mands, and yet disobey him in his most lawful commands, and set another Head over him; It may be supposed they sware judicially, a judicious lye.</p>
+            <p n="17">
+               <hi>Sup.</hi> 17. They who beleeve S. <hi>Pauls</hi> Epistle to the <hi>Romanes</hi> was endi<g ref="char:EOLhyphen"/>ted by the Spirit of God, and thereby acknowledge all matters of Faith therein contained ought to be beleeved, and all matters of manners ought to be observed, and amongst the rest, <hi>That Custom is due, to whom Custome belongeth,</hi> and yet put out those Customers, who will pay Custome where it is due, and put in Customers to pay it where it is not due; It may be sup<g ref="char:EOLhyphen"/>posed they doe knowingly, or feelingly, a feeling lye.</p>
+            <p n="18">18 They that say, God saw it as equally necessary to call this present Parliament for the reforming of abuses in Church and State; as for send<g ref="char:EOLhyphen"/>ing of Jesus Christ into the world, to save Man-kind; It may be supposed they say most Blasphemously, a most Blasphemous lye.</p>
+            <p n="19">19. They that lie in a Saw-pit, or Gravill-pit all the time of the fight at <hi>Edge-h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll,</hi> and post the next morning to <hi>London,</hi> and openly in <hi>Guild-hall</hi> vow upon their Honour, That the Kings Army was utterly defeated, his Standard lost, and most of his Souldiers slaine, when the contrary was somewhat truer; It may be supposed they vow openly, dishonourably, an open dishonourable lye.</p>
+            <p n="20">20. They that cause Bells to be rung, Bon-fires to be made, Sermons to be Preached by way of Thanksgiving for a happy victory upon Prince <hi>Ru<g ref="char:EOLhyphen"/>pert</hi> and his Cavaliers, when P. <hi>Rupert</hi> and his Cavaliers had obtained the victory upon the Troopers and their Cudgelliers, though the more is the pitty, <hi>English</hi> Christian blood was shed by English Christians; It may be supposed they rung not their Bells, burne not their fires, preach not their Sermons so much victoriously, as in a victorious lie.</p>
+            <p n="21">21. They that to take off <hi>Straffords</hi> head, doe plead, <hi>If the Law be not executed, every thing will become a Law, Riot will become a Law, Drun<g ref="char:EOLhyphen"/>kennesse will become a law, Ambition will become a Law, Lust will become a Law;</hi> and yet to keep on their own heads, doe heighten their owne Lusts and Ambitions to a law; It may be supposed they speak Ambitiously and lustfully, an ambitious lustfull lye.</p>
+            <p n="22">22. They that Imprison Judges for denying a <hi>Habeas Corpus</hi> before the Parliament, because it was against the old Fundamentall Lawes of this Kingdom, whereby the Subjects Libertie might be maintained: and in Parliament Imprison the same Judges for granting a <hi>Habeas Corpus,</hi> and
+<pb n="7" facs="tcp:125169:4"/> by a new Fundamentall Law detain the Subjects from libertie; It may be supposed, They would destroy the lawes Fundamentally, by a funda<g ref="char:EOLhyphen"/>mentall lye.</p>
+            <p>
+               <hi>Sup.</hi> 23. They that come from St. <hi>Peters</hi> in <hi>VVestminster</hi> to <hi>Gog-Ma<g ref="char:EOLhyphen"/>gog</hi> in <hi>Guild-hall London,</hi> and make eloquent Orations to engage the poor abused and deceived Citizens into as deep Rebellion as themselves, by bringing in Plate, Mony, Jewels, Bodkins and Thimbles, for furthering the good Cause in hand, by an unnaturall and Civill warre; It may be sup<g ref="char:EOLhyphen"/>posed they speak Eloquently, an eloquent lye.</p>
+            <p n="24">24. They that imprison <hi>Bishops,</hi> and other grave and Learned Mini<g ref="char:EOLhyphen"/>sters, pretending they brought in Innovations and Superstitions, though they did only renew the ancient and harmlesse Ceremonies of the Sur<g ref="char:EOLhyphen"/>plesse, Crosse, and Ring, and recommand the reverent Gestures of kneel<g ref="char:EOLhyphen"/>ing at Prayers, and Sacrament of the Supper, standing at the Creed, and <hi>Gloria Patri,</hi> and uncovering the head the whole time of Divine Service; and themselves in the meane time introduce true Innovations, by encou<g ref="char:EOLhyphen"/>raging <hi>non-sense extempore</hi> Prayers and preachments; It may be supposed they intend Irreligiously, to set up an Irreligious lye.</p>
+            <p n="25">25. They that banish all Popery, because the Pope exalts himself a<g ref="char:EOLhyphen"/>bove all that is called God, and is therefore <hi>Antichrist;</hi> and in the mean time super-exalt themselves above Kings, who are called Gods, and so translate <hi>Antichrist</hi> from <hi>S. Peters</hi> in <hi>Rome,</hi> to <hi>S. Peters</hi> in <hi>Westminster;</hi> It may be supposed they intend to set up <hi>Antichrist</hi> here, by <hi>Antichristi<g ref="char:EOLhyphen"/>an</hi> dealing with an <hi>Antichristian</hi> lye.</p>
+            <p n="26">26. They that banish all Jesuites, because they are the chief Pillars of, and agents for the Papacie, by their mentall Reservations and Equivoca<g ref="char:EOLhyphen"/>tions, and in the intrim equevocate themselves, by Protesting that nothing is more dear and sweet to them then the Common-wealth, by wealth meaning Money; It may be supposed, they intend little lesse, then to ex<g ref="char:EOLhyphen"/>change one Jesuite into another, the Popish Clergie Jesuite, into an <hi>Eng<g ref="char:EOLhyphen"/>lish</hi> Lay Jesuite and so play fast and loose Jesuitically, by a Jesueticall lye.</p>
+            <p n="27">27. They that forbid Ministers to Preach at all, because at all times they Preach against the sinnes of the Times, and particularly, for breaking the late Covenant and Protestation, whereby they bound themselves to maintain and defend the Kings Honour, Person, and Dignitie; It may be supposed, they are hardned in their sinnes, because they are vexed to have their sins reproved; and so would goe on obstinately to maintain an ob<g ref="char:EOLhyphen"/>stinate lye.</p>
+            <p n="28">28. They that send Armed Souldiers to apprehend and Imprison peace<g ref="char:EOLhyphen"/>able Ministers, because they are reputed Malignants; and then cannot, at least doe not lay any greater Malignancie to their charge, then praying for <hi>Bishops,</hi> to which crime being answered, They doe therein onely obey an
+<pb n="8" facs="tcp:125169:5"/> Act of Parliament, and discharge their Oaths, which being replied upon, They are discharged from that Oath, because that Act of Parliament was made to confirme King <hi>Edwards</hi> Common Prayer-Book, and not that which is now extant; with not Issue being joyned, because that very Prayer for the BB. is in K. <hi>Edwards</hi> Common-Prayer Book; It will be supposed they indeavour to maintain the scirvy cause in hand scirvily by a scirvie lye.</p>
+            <p>
+               <hi>Sup.</hi> 29. They that against the Customes of Kingdomes, Nations, and Countries, against the Precidents of all Councills and Synods Provinci<g ref="char:EOLhyphen"/>all, Nationall, and Generall, will now have a Synod called, and none to be of that society, but such as are chosen by the Layetie, that Article of Religion may be established, not by the measure, but number of Voices, thereby to set up in this Nation a pariticall Presbytery in stead of an Hie<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>archicall Episcopacie; It may be supposed; that as much as in them lay, they would Nationally make the whole Kingdome guilty of a Nation<g ref="char:EOLhyphen"/>all lye.</p>
+            <p n="30">30. They that take away from the King all His Forts and Castles, and Provisions, whereby He might maintain himself, His Queen, and Chil<g ref="char:EOLhyphen"/>dren, and prescribe all such as contribute to Him in such necessity; and afterwards, being stung with the shame of this fact, doe lay down a Fea<g ref="char:EOLhyphen"/>ther of Charitie, for a whole Body of Justice, and feed the Royall Issue by Almes; It may be charitably supposed, that it is a most Charitable lye.</p>
+            <p n="31">31. They that guild their subtill Intentions with humble Expressions, to keep the King and His Heire neer them, till their stratagems were per<g ref="char:EOLhyphen"/>fect, that so they might seize upon the Prince, and Crowne him, in C<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>se his Father should not yeeld to their unreasonable demands; This in truth may be supposed, had it taken effect handsomely, had been an handsome lye.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
